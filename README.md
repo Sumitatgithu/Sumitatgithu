@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sumitatgithu
-- 👀 I’m interested in Software developing
+- 👀 I’m interested in coding & Software developing
 - 🌱 I’m currently learning BE in Chandigarh University
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me 
